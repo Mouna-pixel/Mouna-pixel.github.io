@@ -1,0 +1,29 @@
+#global {
+
+    overflow-x:auto;
+    color: red;
+    
+    }
+body{
+    color: red;
+}
+    
+    table {
+    
+    border-collapse: collapse;
+    
+    width: 100%;
+    color: red;
+    
+    }
+    
+    th, td {
+    
+    text-align: left;
+    
+    padding: 8px;
+    color: red;
+    
+    }
+    
+    tr:nth-child(even){background-color: #f2f2f2}
